@@ -91,9 +91,11 @@ header {
 }
 
 .header-left a {
+  line-height: 65px;
   color: white;
   display: block;
   float: left;
+  margin-left: 25px;
   transition: all 0.5s;
 }
 
@@ -105,7 +107,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  margin: 0 50px;
+  margin: 0 70px;
   color: white;
   display: block;
   float: left;
